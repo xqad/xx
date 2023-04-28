@@ -1,5 +1,5 @@
 {
-    "description":"重要更新！",
+    "description":"",
     "format":".lzma",
     "main":"小强广告拦截.exe",
     "updater":"小强广告拦截.exe",
